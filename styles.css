@@ -1,6 +1,6 @@
 
 :root{
-    --primary-color:#9CA3AF;
+    --primary-color:#6B7280;
     --secondary-color:#D1D5DB;
 
 }
@@ -24,8 +24,9 @@ body{
 .heading{
     background-color: var(--primary-color);
     text-align: center;
-    padding: 1.5rem;
+    padding: 2rem;
     font-weight: bold;
+   font-size: 2rem;
 }
 
 #input-text{
