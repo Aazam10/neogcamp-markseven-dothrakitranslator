@@ -54,3 +54,21 @@ body{
     border-radius: 0.3rem;
     margin-bottom: 20px;
 }
+.footer{
+    background-color: var(--primary-color);;
+}
+.ftr-heading{
+    text-align: center;
+    padding:3px;
+    margin: 0;
+     font-weight:bold;
+   font-size:1.3rem;
+}
+    
+
+.ftr-txt{
+    max-width:650px;
+   margin:0 auto;
+   padding:0.5rem;
+   font-size:1.3rem;
+}
